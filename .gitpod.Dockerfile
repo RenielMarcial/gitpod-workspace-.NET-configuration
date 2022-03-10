@@ -1,4 +1,4 @@
-FROM gitpod/workspace-base
+FROM gitpod/workspace-full
+FROM gitpod/workspace-mysql
 
-# Install custom tools, runtime, etc.
-RUN brew install fzf
+RUN sudo apt-get update && sudo apt-get install dotnet -y

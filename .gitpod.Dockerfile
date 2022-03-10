@@ -1,3 +1,4 @@
-FROM gitpod/workspace-dotnet
-RUN brew install fzf
-FROM gitpod/workspace-mysql
+FROM gitpod/workspace-full
+
+RUN sudo apt-get update \
+    && sudo apt-get install dotnet -y

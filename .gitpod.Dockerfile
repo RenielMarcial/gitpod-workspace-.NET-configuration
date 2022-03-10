@@ -1,4 +1,3 @@
 FROM gitpod/workspace-dotnet
-FROM gitpod/workspace-mysql
-
 RUN brew install fzf
+FROM gitpod/workspace-mysql

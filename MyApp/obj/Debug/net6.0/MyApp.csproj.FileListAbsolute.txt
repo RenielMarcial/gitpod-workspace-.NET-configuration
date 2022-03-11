@@ -1,0 +1,15 @@
+/workspace/gitpod-workspace-.NET-configuration/MyApp/bin/Debug/net6.0/MyApp
+/workspace/gitpod-workspace-.NET-configuration/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/workspace/gitpod-workspace-.NET-configuration/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/workspace/gitpod-workspace-.NET-configuration/MyApp/bin/Debug/net6.0/MyApp.dll
+/workspace/gitpod-workspace-.NET-configuration/MyApp/bin/Debug/net6.0/MyApp.pdb
+/workspace/gitpod-workspace-.NET-configuration/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/workspace/gitpod-workspace-.NET-configuration/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/gitpod-workspace-.NET-configuration/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/workspace/gitpod-workspace-.NET-configuration/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/workspace/gitpod-workspace-.NET-configuration/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/workspace/gitpod-workspace-.NET-configuration/MyApp/obj/Debug/net6.0/MyApp.dll
+/workspace/gitpod-workspace-.NET-configuration/MyApp/obj/Debug/net6.0/refint/MyApp.dll
+/workspace/gitpod-workspace-.NET-configuration/MyApp/obj/Debug/net6.0/MyApp.pdb
+/workspace/gitpod-workspace-.NET-configuration/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
+/workspace/gitpod-workspace-.NET-configuration/MyApp/obj/Debug/net6.0/ref/MyApp.dll
